@@ -1,6 +1,6 @@
 # CelestialOptimizer
 
-> 本 README 由 AI 自动生成，仅供参考。
+> 本 README 由 ChatGPT 生成，仅供参考。
 
 ## 项目简介
 
